@@ -1,8 +1,8 @@
 ### Hi, I'm Manda 👋 
 
 I'm a Melbourne-based Developer. 
-- **Working on:** Egg, Yolk, Chicken. 
-- **Learning:** about the web in General Assembly's Software Engineering Immersive until February when I go back to work.
+- **Working on:** Workshop planner
+- **Learning:** Ruby on Rails, vanilla JS, HTML5, CSS.
 - **Past:** Recently made the jump from Product Design / UX Design. 
 - **Pronouns:** She/Her
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
