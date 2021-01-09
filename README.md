@@ -1,7 +1,7 @@
 ### Hi, I'm Manda 👋 
 
 I'm a Melbourne-based Developer. 
-- **Working on:** Workshop planner
+- **Working on:** Game for practicing Software Dev interview questions
 - **Learning:** Ruby on Rails, vanilla JS, HTML5, CSS.
 - **Past:** Recently made the jump from Product Design / UX Design. 
 - **Pronouns:** She/Her
