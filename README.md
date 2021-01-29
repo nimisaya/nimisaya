@@ -1,8 +1,8 @@
 ### Hi, I'm Manda 👋 
 
 I'm a Melbourne-based Developer. 
-- **Working on:** Game for practicing Software Dev interview questions
-- **Learning:** Ruby on Rails, vanilla JS, HTML5, CSS.
+- **Working on:** Code taito - a space for creative code experiments 
+- **Learning:** React, Ruby on Rails, vanilla JS, HTML5, CSS.
 - **Past:** Recently made the jump from Product Design / UX Design. 
 - **Pronouns:** She/Her
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
