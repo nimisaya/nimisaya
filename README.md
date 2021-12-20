@@ -1,8 +1,15 @@
 ### Hi, I'm Manda 👋 
 
-I'm a Melbourne-based Developer. 
+I'm a Melbourne-based Mobile Developer with a background in Product Design. 
 - **Pronouns:** She/Her
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
+
+Some web things I have made and may one day finish:
+
+- [Codetaito](https://nimisaya.github.io/codetaito/#/) - generate your own art. Click the footer to make art with your voice.
+- [Egg, yolk, chicken](https://nimisaya.github.io/tic-tac-toe/) - variation of Tic, tac, toe
+- [Workshop planner](https://workshop-plan.herokuapp.com) - heroku app so takes time to load
+- [Tech job corp](https://tech-job-corp-quiz.herokuapp.com) - another slow loading heroku app but this time made with a group
 
  
 <!--
