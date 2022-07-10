@@ -7,8 +7,8 @@ I'm a Melbourne-based Mobile Developer with a background in Product Design.
 
 Mobile projects I am working on:
 
-- Wawa: Flash card app for young children (Android app) [Private Repo]
-- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): Spin the wheel to pick a movie to watch (Android app) [Public]
+- Wawa: Flash card app for young children (Android) [Private Repo]
+- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): Spin the wheel to pick a movie to watch (Android) [Public]
 
 Some web things I have worked on in the past and may one day finish:
 
@@ -19,4 +19,4 @@ Some web things I have worked on in the past and may one day finish:
 
 Theory:
 
-I'm slowly moving my study notes across from a private Trello and adding new topics. If you would like to check them out they are available in the [study-note](https://github.com/nimisaya/study-notes) repo. They are unpolished but I'm happy for others to use them if they would like.
+I am slowly moving my study notes across from a private Trello and adding new topics. If you would like to check them out they are available in the [study-note](https://github.com/nimisaya/study-notes) repo. They are unpolished but I'm happy for others to use them if they would like.
