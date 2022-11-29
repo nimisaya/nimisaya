@@ -7,16 +7,17 @@ I'm a Melbourne-based Mobile Developer with a background in Product Design.
 
 Mobile projects I am working on:
 
-- Wawa: Flash card app for young children (Android) [Private Repo]
-- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): Spin the wheel to pick a movie to watch (Android) [Public]
+- Wawa: Flash card app for young children (Android) [Private Repo] 🚸
+- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): Spin the wheel to pick a movie to watch (Android) [Public] 🎡
 
-Playing around with Kotlin:
+Playing around with Kotlin and Android:
 
-- [Cactus Bank](https://github.com/nimisaya/cactus-bank): basic banking 
+- [Cactus Bank](https://github.com/nimisaya/cactus-bank): basic banking 🌵💰
+- [@Previews](): playing with Preview annotation for previewing Composables 👀
 
 Some web things I have worked on in the past and may one day finish:
 
-- [Codetaito](https://nimisaya.github.io/codetaito/#/): generate your own art. Click the 💥 to make art with your voice.
-- [Egg, yolk, chicken](https://nimisaya.github.io/tic-tac-toe/): Egg vs. chicken variation of Tic, tac, toe
-- [Workshop planner](https://workshop-plan.herokuapp.com): Plan your workshops, note it uses heroku, so takes time to load
-- [Tech job corp](https://tech-job-corp-quiz.herokuapp.com): The Software Interview Game (made with some friends)
+- [Codetaito](https://nimisaya.github.io/codetaito/#/): generate your own art. Click the 💥 to make art with your voice. 🎨
+- [Egg, yolk, chicken](https://nimisaya.github.io/tic-tac-toe/): Egg vs. chicken variation of Tic, tac, toe 🥚🐔
+- [Workshop planner](https://workshop-plan.herokuapp.com): Plan your workshops, note it uses heroku, so takes time to load 🤔
+- [Tech job corp](https://tech-job-corp-quiz.herokuapp.com): The Software Interview Game (made with some friends)👨‍💻
