@@ -8,7 +8,7 @@ I'm a Melbourne-based Mobile Developer with a background in Product Design.
 Mobile projects I am working on:
 
 - Wawa: Flash card app for young children (Android) [Private Repo] 🚸
-- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): Spin the wheel to pick a movie to watch (Android) [Public] 🎡
+- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): WIP. Spin the wheel to pick a movie to watch (Android) [Public] 🎡
 
 Playing around with Kotlin and Android:
 
