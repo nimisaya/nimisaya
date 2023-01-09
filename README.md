@@ -1,7 +1,7 @@
 ### Hi, I'm Manda 👋 
 
 I'm a Melbourne-based Mobile Developer with a background in Product Design. 
-- **Pronouns:** She/Her/They/Them
+- **Pronouns:** She/They
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
 - **Work:** [REA Group](https://www.rea-group.com/) as an Associate Mobile Developer on the [Ignite](https://ignite.realestate.com.au/) native apps
 
