@@ -14,6 +14,7 @@ Playing around with Kotlin and Android:
 
 - [Cactus Bank](https://github.com/nimisaya/cactus-bank): basic banking 🌵💰
 - [@Previews](https://github.com/nimisaya/android-previews): playing with Preview annotation for previewing Composables 👀
+- [Monster "illustration"](https://github.com/nimisaya/monster): WIP 👾
 
 Some web things I have worked on in the past and may one day finish:
 
