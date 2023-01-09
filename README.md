@@ -20,5 +20,5 @@ Some web things I have worked on in the past and may one day finish:
 
 - [Codetaito](https://nimisaya.github.io/codetaito/#/): generate your own art. Click the 💥 to make art with your voice. 🎨
 - [Egg, yolk, chicken](https://nimisaya.github.io/tic-tac-toe/): Egg vs. chicken variation of Tic, tac, toe 🥚🐔
-- [Workshop planner](https://workshop-plan.herokuapp.com): Plan your workshops, note it uses heroku, so takes time to load 🤔
+- Workshop planner: Plan your workshops, note it uses heroku, so takes time to load 🤔
 - [Tech job corp](https://tech-job-corp-quiz.herokuapp.com): The Software Interview Game (made with some friends)👨‍💻
