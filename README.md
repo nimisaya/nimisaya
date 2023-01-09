@@ -13,7 +13,7 @@ Mobile projects I am working on:
 Playing around with Kotlin and Android:
 
 - [Cactus Bank](https://github.com/nimisaya/cactus-bank): basic banking 🌵💰
-- [@Previews](): playing with Preview annotation for previewing Composables 👀
+- [@Previews](https://github.com/nimisaya/android-previews): playing with Preview annotation for previewing Composables 👀
 
 Some web things I have worked on in the past and may one day finish:
 
