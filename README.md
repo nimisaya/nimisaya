@@ -5,16 +5,16 @@ I'm a Melbourne-based Mobile Developer with a background in Product Design.
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
 - **Work:** [REA Group](https://www.rea-group.com/) as an Associate Mobile Developer on the [Ignite](https://ignite.realestate.com.au/) native apps
 
-Mobile projects I am working on:
-
-- Wawa: Flash card app for young children (Android) [Private Repo] 🚸
-- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): WIP. Spin the wheel to pick a movie to watch (Android) 🎡
-
 Playing around with Kotlin and Android:
 
 - [Cactus Bank](https://github.com/nimisaya/cactus-bank): basic banking 🌵💰
 - [@Previews](https://github.com/nimisaya/android-previews): playing with Preview annotation for previewing Composables 👀
-- [Monster "illustration"](https://github.com/nimisaya/monster): WIP 👾
+- [Monster "illustration"](https://github.com/nimisaya/monster): A little monster enjoying the night 👾
+
+Mobile projects I am working on:
+
+- Wawa: Flash card app for young children (Android) [Private Repo] 🚸
+- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): WIP. Spin the wheel to pick a movie to watch (Android) 🎡
 
 Some web things I have worked on in the past and may one day finish:
 
