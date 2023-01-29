@@ -3,12 +3,12 @@
 I'm a Melbourne-based Mobile Developer with a background in Product Design. 
 - **Pronouns:** She/They
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
-- **Work:** [REA Group](https://www.rea-group.com/) as an Associate Mobile Developer on the [Ignite](https://ignite.realestate.com.au/) native apps
+- **Work:** [REA Group](https://www.rea-group.com/) looking after the [Ignite](https://ignite.realestate.com.au/) native apps ([Android](https://play.google.com/store/apps/details?id=au.com.realestate.cxss&hl=en&gl=US) | iOS)
 
 Playing around with Kotlin and Android:
 
 - [Cactus Bank](https://github.com/nimisaya/cactus-bank): basic banking 🌵💰
-- [@Previews](https://github.com/nimisaya/android-previews): playing with Preview annotation for previewing Composables 👀
+- [Compose Previews](https://github.com/nimisaya/android-previews): playing with Compose Previews 👀
 - [Monster "illustration"](https://github.com/nimisaya/monster): A little monster enjoying the night 👾
 
 Mobile projects I am working on:
