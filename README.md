@@ -11,6 +11,7 @@ Playing around with Kotlin and Android:
 - [Compose Previews](https://github.com/nimisaya/android-previews): playing with Compose Previews 👀
 - [Monster "illustration"](https://github.com/nimisaya/monster): A little monster enjoying the night 👾
 - [Language Matters](https://github.com/nimisaya/Languagematters): Displaying app content for different locales 💬
+- [Android Studio - File Templates](https://github.com/nimisaya/android-file-templates): How to create custom file templates in Android Studio 📂
 
 Mobile projects I am working on:
 
