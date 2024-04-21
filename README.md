@@ -15,7 +15,7 @@ Playing around with Kotlin and Android:
 
 Mobile projects I am working on:
 
-- Wawa: Flash card app for young children (Android) [Private Repo] 🚸
+- NiMi: Flash card app for young children (Android) [Private Repo] 🚸
 - [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): WIP. Spin the wheel to pick a movie to watch (Android) 🎡
 
 Some web things I have worked on in the past and may one day finish:
