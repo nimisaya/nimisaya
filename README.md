@@ -1,9 +1,10 @@
 ### Hi, I'm Manda 👋 
 
-I'm a Melbourne-based Mobile Developer with a background in Product Design. 
+I'm an Android Developer with a background in Product Design.
+
 - **Pronouns:** She/They
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
-- **Work:** [REA Group](https://www.rea-group.com/) looking after the [Ignite](https://ignite.realestate.com.au/) native apps ([Android](https://play.google.com/store/apps/details?id=au.com.realestate.cxss&hl=en&gl=US) | iOS)
+- **Work:** [REA Group](https://www.rea-group.com/) looking after the [Ignite Android app](https://play.google.com/store/apps/details?id=au.com.realestate.cxss&hl=en&gl=US)
 
 Playing around with Kotlin and Android:
 
@@ -16,9 +17,9 @@ Playing around with Kotlin and Android:
 Mobile projects I am working on:
 
 - NiMi: Flash card app for young children (Android) [Private Repo] 🚸
-- [Wheel of the Blurst](https://github.com/nimisaya/what-to-watch): WIP. Spin the wheel to pick a movie to watch (Android) 🎡
 
-Some web things I have worked on in the past and may one day finish:
+  
+Some small web things I have worked on in the past and may one day finish:
 
 - [Codetaito](https://nimisaya.github.io/codetaito/#/): generate your own art. Click the 💥 to make art with your voice. 🎨
 - [Egg, yolk, chicken](https://nimisaya.github.io/tic-tac-toe/): Egg vs. chicken variation of Tic, tac, toe 🥚🐔
