@@ -2,9 +2,14 @@
 
 I'm an Android Developer with a background in Product Design.
 
-- **Pronouns:** She/They
+- **Pronouns:** She/Her
 - **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
 - **Work:** [REA Group](https://www.rea-group.com/) looking after the [Ignite Android app](https://play.google.com/store/apps/details?id=au.com.realestate.cxss&hl=en&gl=US)
+
+Mobile projects I am working on:
+
+- Bish Bash Boom!: Tic Tac Toe gone off the rails (Android)
+- NiMi: Flash card app for young children (Android) [Private Repo] 🚸 - PARKED
 
 Playing around with Kotlin and Android:
 
@@ -13,10 +18,6 @@ Playing around with Kotlin and Android:
 - [Monster "illustration"](https://github.com/nimisaya/monster): A little monster enjoying the night 👾
 - [Language Matters](https://github.com/nimisaya/Languagematters): Displaying app content for different locales 💬
 - [Android Studio - File Templates](https://github.com/nimisaya/android-file-templates): How to create custom file templates in Android Studio 📂
-
-Mobile projects I am working on:
-
-- NiMi: Flash card app for young children (Android) [Private Repo] 🚸
 
   
 Some small web things I have worked on in the past and may one day finish:
