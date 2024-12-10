@@ -1,10 +1,9 @@
-### Hi, I'm Manda 👋 
+### Hello 👋 
 
 I'm an Android Developer with a background in Product Design.
 
 - **Pronouns:** She/Her
-- **Reach me:** on [LinkedIn](https://www.linkedin.com/in/amandajarvinen/)
-- **Work:** [REA Group](https://www.rea-group.com/) looking after the [Ignite Android app](https://play.google.com/store/apps/details?id=au.com.realestate.cxss&hl=en&gl=US)
+- **BlueSky:** [nimisaya](https://bsky.app/profile/nimisaya.bsky.social)
 
 Mobile projects I am working on:
 
