@@ -7,7 +7,7 @@ I'm an Android Developer with a background in Product Design.
 
 Mobile projects I am working on:
 
-- Bish Bash Boom!: Tic Tac Toe gone off the rails (Android)
+- Bish Bash Boom!: Tic Tac Toe gone off the rails (Android) [Private Repo]
 - NiMi: Flash card app for young children (Android) [Private Repo] 🚸 - PARKED
 
 Playing around with Kotlin and Android:
